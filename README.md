@@ -51,7 +51,7 @@ npm install
     php artisan db:seed
     ```
 Note: 
-if you use another SMDB you shoud look the official documentation for laravel and setup your params to *.env* file with new changes. [Read more](https://laravel.com/docs/7.x/database "go documentation")
+if you use another DBMS you shoud look the official documentation for laravel and setup your params to *.env* file with new changes. [Read more](https://laravel.com/docs/7.x/database "go documentation")
 
 ### **Key generate**
 you should assign a new key generate for this app
