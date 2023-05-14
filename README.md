@@ -71,10 +71,6 @@ npm run watch
 ```
 Now open your browser and enjoy this web aplicaction!
 
-
-# Live demo
-click here [Agenda de Contactos](https://agendacontactos2.000webhostapp.com/ "go live demo")
-
 # Build with
 * Laravel 7
 * Vue 3
